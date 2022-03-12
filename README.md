@@ -11,4 +11,6 @@
  Evaluation is presented in Evaluation
  
  
- 
+The CASIA 2.0 Dataset - https://www.kaggle.com/divg07/casia-20-image-tampering-detection-dataset 
+
+For Indian Dataset -  https://github.com/bhuvaneshsingh80/Twitter_India_dataset_Ver_03 
